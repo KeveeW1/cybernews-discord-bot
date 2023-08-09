@@ -1,4 +1,4 @@
-**#CyberNews Discord Bot**
+**CyberNews Discord Bot**
 <br>want the latest cybersecurity news?
 
 commands include:
