@@ -1,5 +1,5 @@
 **#CyberNews Discord Bot**
-want the latest cybersecurity news?
+<br>want the latest cybersecurity news?
 
 commands include:
 <br>\hi - the bot's intro :)
